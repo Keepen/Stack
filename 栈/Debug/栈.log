@@ -1,0 +1,3 @@
+﻿  栈.c
+c:\vs project\栈\栈.c(89): warning C4020: “StackPop”: 实参太多
+  栈.vcxproj -> C:\VS PROJECT\栈\Debug\栈.exe
